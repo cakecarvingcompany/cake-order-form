@@ -22,7 +22,7 @@ const App = () => {
 
     // !!! IMPORTANT: Replace this with your actual DEPLOYED Netlify URL !!!
     // Example: "https://shiny-tulumba-793085.netlify.app" (without trailing slash)
-    const YOUR_DEPLOYED_NETLIFY_URL = "YOUR_DEPLOYED_NETLIFY_URL_HERE"; 
+    const YOUR_DEPLOYED_NETLIFY_URL = "https://shiny-tulumba-793085.netlify.app/"; 
 
     // !!! IMPORTANT: Replace this with your actual WhatsApp Business number in international format (no +) !!!
     const YOUR_BUSINESS_WHATSAPP_NUMBER = "19453425041"; // Updated with your provided number
